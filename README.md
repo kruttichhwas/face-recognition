@@ -16,7 +16,8 @@ We utilized the LFW (Labeled Faces in the Wild) dataset, which consists of facia
 - Number of images: 1288
 - Image size: 50 x 37
 - Number of unique classes: 7
-- Target class names: [List of target names]
+- Target class names: ['Ariel Sharon' 'Colin Powell' 'Donald Rumsfeld' 'George W Bush'
+ 'Gerhard Schroeder' 'Hugo Chavez' 'Tony Blair']
 
 ## Feature Extraction Techniques
 

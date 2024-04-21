@@ -1,5 +1,11 @@
 # Exploring Image Classification & Facial Recognition Techniques
 
+- [project page](https://kruttichhwas.github.io/face-recognition-website/)
+
+- [colab link](https://colab.research.google.com/drive/1fCVS87RY16ql-hTSjf8TEx2vFvrFt-pJ#scrollTo=aMttjFAu9zZv)
+
+- [video demonstration](https://youtu.be/ud5oh22mbVs?si=n3v7OQfQZzcYZbQv)
+
 ## Introduction
 In this project, we explore various techniques for image classification and facial recognition. Specifically, we delve into the comparison of Linear Binary Pattern (LBP), Histogram of Oriented Gradients (HoG), and Convolutional Neural Networks (CNN) features.
 
